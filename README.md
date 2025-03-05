@@ -1,5 +1,5 @@
-# RAG_learning
-Learning RAG and vector databases
+# Retrieval-Augmented Generation
+is the process of optimizing the output of a large language model, so it references an authoritative knowledge base outside of its training data sources before generating a response.
 
 # How RAG works(Retrieval-Augmented Generation)
 
